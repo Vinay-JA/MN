@@ -1,0 +1,51 @@
+body{
+    font-family: 'Kirang Haerang', cursive;
+    background:peachpuff;
+}
+.header_div img{
+    width: 100px;
+    
+}
+.main_div{
+    background: peachpuff;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid grey;
+}
+.main_div label{
+    background: white;
+    width:300px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px grey;
+}
+#camera, #result{
+    border:2px solid grey;
+    width:300px;
+    height:300px;
+    box-shadow: 5px 5px 18px grey;
+}
+.main_div button{
+    width:300px;
+    box-shadow: 5px 5px 18px grey;
+    border: 1px solid;
+}
+.footer_div img{
+width:70px;
+
+}
+.footer_div h4{
+    background:peachpuff;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px grey;
+
+}
+.footer{
+    position: fixed;
+    bottom:0;
+    width:100%;
+    background-color: peachpuff;
+    line-height: 3;
+    text-align: center;
+}
